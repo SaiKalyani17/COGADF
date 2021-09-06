@@ -1,0 +1,9 @@
+{
+	"name": "kalyaniADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3321715e-86d2-4c46-94a3-66cd8974e43c",
+		"tenantId": "fbbf848f-6d39-4faa-9dbe-25c389d083d5"
+	}
+}
